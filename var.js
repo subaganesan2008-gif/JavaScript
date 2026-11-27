@@ -1,0 +1,17 @@
+var a=50
+var b=20
+console.log(a+b)
+console.log(a-b)
+console.log(a*b)
+console.log(a/b)
+console.log(a++)
+console.log(a--)
+console.log(b++)
+console.log("bitwise operators")
+console.log(a&b)
+console.log(a|b)
+console.log(a^b)
+console.log(a<<b)
+console.log(a>>b)
+console.log(~a)
+console.log(~b)

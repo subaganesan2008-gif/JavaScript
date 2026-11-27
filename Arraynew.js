@@ -1,0 +1,7 @@
+const arr1=new Array(2,3,45,45.5,"hello")
+console.log(arr1[0])
+console.log(arr1[1])
+console.log(arr1[2])
+console.log(arr1[3])
+console.log(arr1)
+console.log(arr1[0])
